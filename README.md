@@ -17,5 +17,6 @@ The Course is about foundations of programming with C++.
 
 ## `Certificate`
 
-![image](https://github.com/user-attachments/assets/e3dc828f-b70f-4fb8-85da-6f96754211bf)
+![image](https://github.com/user-attachments/assets/99908b7f-0fd9-4e72-afa6-8d1582dc4f1c)
+
 
