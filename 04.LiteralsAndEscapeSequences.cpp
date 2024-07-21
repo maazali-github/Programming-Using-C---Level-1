@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+
     cout << "M1\M2 \n";     // \ => is a escape character
     cout << "M1\\M2 \n";    // \\ =>  print \ .
     cout << "M1\tM2\n";       // \t print tab
